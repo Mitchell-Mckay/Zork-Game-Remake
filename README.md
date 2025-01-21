@@ -11,7 +11,7 @@
   </li>
 </ul>
 
-<br> <h2>!! READ BEFORE OPENING!!</h2> <br>
+<br> <h3>!! READ BEFORE OPENING!!</h3>
 <ul>
   <li>
     CREATE NEW EMPTY DATABASE "zork-game" IN PHPMYADMIN
