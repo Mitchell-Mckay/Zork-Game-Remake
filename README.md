@@ -10,3 +10,6 @@
     Improved user experience by developing a user backend from SQL databases to enable alternative player registration &amp; login that saved game progress; added the ability to edit account details.
   </li>
 </ul>
+
+!! READ BEFORE OPENING!!
+CREATE NEW EMPTY DATABASE "zork-game" IN PHPMYADMIN, THEN IMPORT "zork-game.sql" FROM FOLDER "database" INTO PHPMYADMIN, INSIDE "zork-game"
