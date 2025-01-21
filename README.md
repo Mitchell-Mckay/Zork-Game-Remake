@@ -11,5 +11,5 @@
   </li>
 </ul>
 
-!! READ BEFORE OPENING!!
+!! READ BEFORE OPENING!! <br>
 CREATE NEW EMPTY DATABASE "zork-game" IN PHPMYADMIN, THEN IMPORT "zork-game.sql" FROM FOLDER "database" INTO PHPMYADMIN, INSIDE "zork-game"
