@@ -12,4 +12,11 @@
 </ul>
 
 !! READ BEFORE OPENING!! <br>
-CREATE NEW EMPTY DATABASE "zork-game" IN PHPMYADMIN, THEN IMPORT "zork-game.sql" FROM FOLDER "database" INTO PHPMYADMIN, INSIDE "zork-game"
+<ul>
+  <ol>
+    CREATE NEW EMPTY DATABASE "zork-game" IN PHPMYADMIN
+  </ol>
+  <ol>
+    IMPORT "zork-game.sql" FROM FOLDER "database" INTO PHPMYADMIN, INSIDE "zork-game"
+  </ol>
+</ul>
