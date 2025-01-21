@@ -13,10 +13,10 @@
 
 !! READ BEFORE OPENING!! <br>
 <ul>
-  <ol>
+  <li>
     CREATE NEW EMPTY DATABASE "zork-game" IN PHPMYADMIN
-  </ol>
-  <ol>
+  </li>
+  <li>
     IMPORT "zork-game.sql" FROM FOLDER "database" INTO PHPMYADMIN, INSIDE "zork-game"
-  </ol>
+  </li>
 </ul>
